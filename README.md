@@ -4,4 +4,6 @@
 - Day 2: Got familiar with Rails console, Active Record Model, HTTP requests and routes.
 - Day 3: Got familiar with Controllers and CRUD actions, Authentications and Caching.
 
-- Day 1 (week5): Learned about Rich Text Fields, File Uploads, I18n, Action Mailer and Email Notifications.
+Week 5
+- Day 1: Learned about Rich Text Fields, File Uploads, I18n, Action Mailer and Email Notifications.
+- Day 2: Learned about Propshaft, Import Maps and Hotwire's Turbo.
