@@ -7,3 +7,5 @@
 Week 5
 - Day 1: Learned about Rich Text Fields, File Uploads, I18n, Action Mailer and Email Notifications.
 - Day 2: Learned about Propshaft, Import Maps and Hotwire's Turbo.
+- Day 3: Learned about Stimulus.
+- Day 4: Learned about Hotwire's Native, RoboCop, Testing and security.
